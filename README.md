@@ -6,7 +6,7 @@
 
 把想法做成可以使用的工具，记录技术探索与生活中的发现。
 
-[个人网站](https://ethan3114.github.io/personal-site/) · [全部代码仓库](https://github.com/Ethan3114?tab=repositories)
+[个人网站](https://ethan3114.github.io/personal-site/) · [全部代码仓库](https://github.com/Ethan3114?tab=repositories) · [公众号：江上算峰](#文章与写作)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -61,6 +61,16 @@
 | --- | --- | --- |
 | [dify-plugins](https://github.com/Ethan3114/dify-plugins) | Dify Marketplace 插件集合与插件开发示例。 | [langgenius/dify-plugins](https://github.com/langgenius/dify-plugins) |
 | [wcdb-key-tool](https://github.com/Ethan3114/wcdb-key-tool) | 用于本人设备和账号的微信 WCDB / SQLCipher 数据库密钥提取工具。 | [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) |
+
+## 文章与写作
+
+### 微信公众号 · 江上算峰
+
+我在微信公众号「江上算峰」发布文章，欢迎阅读与交流。
+
+- [阅读「江上算峰」的文章 ↗](https://mp.weixin.qq.com/s/zZCeGf7aB5wbZ-nsRjBqzA)
+
+在微信中搜索「江上算峰」，可以查看公众号的更多文章。
 
 ## 交流
 
