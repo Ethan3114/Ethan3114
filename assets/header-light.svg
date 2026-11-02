@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Ethan · AI 训练师、工具开发与技术写作">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Ethan · AI 产品经理、工具开发与技术写作">
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eef6f7"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#0f766e"/></linearGradient>
@@ -7,7 +7,7 @@
   <rect x="24" y="1" width="952" height="3" rx="1.5" fill="url(#accent)"/>
   <g text-anchor="middle" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
     <text x="500" y="78" font-size="48" font-weight="700" letter-spacing="5" fill="#1f2328">ETHAN</text>
-    <text x="500" y="118" font-size="17" fill="#0f766e">AI 训练师 · 工具开发 · 技术写作</text>
+    <text x="500" y="118" font-size="17" fill="#0f766e">AI 产品经理 · 工具开发 · 技术写作</text>
     <text x="500" y="160" font-size="22" fill="#334155">把想法做成可以使用的工具</text>
     <text x="500" y="197" font-size="13" letter-spacing="3" fill="#57606a">保持好奇 · 动手创造 · 记录发现</text>
   </g>
