@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Ethan · AI 训练师、工具开发与技术写作">
+  <img src="./assets/header-light.svg" width="100%" alt="Ethan · AI 产品经理、工具开发与技术写作">
 </picture>
 
 <br>
@@ -108,11 +108,11 @@ Dify 图片中心裁剪工具，接收图片 URL 或上传文件，输出 PNG �
 
 ### 把想法做成可以使用的工具
 
-你好，我是 **Ethan**，一名 **AI 训练师**。我关注 AI 应用、工具开发与技术写作，也喜欢摄影和交互设计。
+你好，我是 **Ethan**，一名喜欢动手做产品的 **AI 产品经理**。我关注 AI 如何融入具体的工作与生活场景，让整理资料、处理数据和表达想法变得更方便。
 
-我通过 Dify 插件、Codex Skills、知识库应用与网页作品探索技术，把处理数据、组织知识和表达想法的过程做成可以使用、可以分享的工具。
+从知识库应用到 Dify 插件、Codex Skills，我习惯把想法做成可以体验的作品，在实际使用中检验产品价值。工作之外，我喜欢摄影，也在公众号 **「江上算峰」** 记录技术探索与自己的思考。
 
-`AI 训练师` `AI 应用` `Dify` `Codex Skills` `知识库` `数据处理` `交互设计` `摄影` `写作`
+`AI 产品经理` `AI 应用` `Dify` `Codex Skills` `知识库` `数据处理` `交互设计` `摄影` `写作`
 
 ---
 
